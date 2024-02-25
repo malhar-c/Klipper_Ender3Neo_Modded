@@ -7,6 +7,8 @@
 git -C <location> add .
 git -C <location> commit -m "`date`"
 git -C <location> push origin master
+
+<location> e.g. ~/printer_data/config
 ```
 
 #Configure crontab to schedule the Script
