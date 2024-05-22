@@ -57,7 +57,7 @@ managed_services = klipper moonraker
 [timelapse]
 output_path = ~/timelapse/
 ffmpeg_binary_path = /usr/bin/ffmpeg
-mode = hyperlapse
+mode = layermacro
 hyperlapse_cycle = 5
 parkhead = false
 targetlength = 15
