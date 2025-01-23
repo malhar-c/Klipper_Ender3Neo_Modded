@@ -82,7 +82,7 @@ managed_services = sonar
 install_script = tools/install.sh
 
 [spoolman]
-server = http://192.168.29.8:7912
+server = http://192.168.0.8:7912
 sync_rate = 5
 
 [update_manager klipper-macros]
