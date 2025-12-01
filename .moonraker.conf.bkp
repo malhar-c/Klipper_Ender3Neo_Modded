@@ -88,7 +88,7 @@ sync_rate = 5
 
 [update_manager klipper-macros]
 type = git_repo
-origin = https://github.com/jschuh/klipper-macros.git
+origin = https://github.com/malhar-c/klipper-macros.git
 path = ~/printer_data/config/klipper-macros
 primary_branch = main
 is_system_service = False
